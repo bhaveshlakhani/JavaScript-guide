@@ -1,0 +1,9 @@
+//declaring varible
+var name="dude";
+var desig="developer";
+var technology='javascript';
+console.log('hey',name,'Great to hear that you are learning',technology,',Now you are a',desig);
+
+// today's date
+var sysdate=Date();
+console.log(sysdate);

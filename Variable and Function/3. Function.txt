@@ -1,0 +1,25 @@
+// function Exercize
+
+//Function which will take two integer argument and return sum of it
+function add(a,b)
+{
+  return a+b;
+}
+
+// Calling function
+console.log('sum of a and b',add(4,6));
+
+
+// just another Example
+function Calculatedogage(age)
+{
+     console.log('dog \'s age',age);
+     console.log('your age would be',7*age);
+}
+Calculatedogage(5);
+
+//Function to convert Celcius to Fahrenheat
+function convertoFehrenheit(celcius)
+{
+     return (celcius * 9/5) + 32;
+}
